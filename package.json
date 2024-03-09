@@ -1,0 +1,22 @@
+{
+  "name": "tea-project-ilhamhermi",
+  "version": "1.0.0",
+  "description": "project tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilhamhermi/Project-Tea.git"
+  },
+  "keywords": [
+    "tea-project"
+  ],
+  "author": "ilhamhermi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilhamhermi/Project-Tea/issues"
+  },
+  "homepage": "https://github.com/ilhamhermi/Project-Tea#readme"
+}
